@@ -1,0 +1,9 @@
+*.txt
+*.exe
+*.hi
+*.o
+bin/
+.idea
+out/
+__pycache__/
+data/
